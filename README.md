@@ -1,4 +1,4 @@
-# chatting
+# Socio app
 
 A new Flutter project.
 
